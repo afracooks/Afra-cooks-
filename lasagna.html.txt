@@ -1,0 +1,73 @@
+﻿<html lang="en">
+  
+    
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Ratatouille recipe</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  
+     
+  <body>
+    <div class="wrapper">
+  
+      <header>
+         <nav><a href="index.html">HOME</a></nav>
+      </header>
+        
+      
+      <h2>Lasagna </h2>  
+      
+      <div class="container">
+        <div><img src="Christmas-Eve-Lasagna-18.jpeg" alt="lasagna"  width="250" height="250"></div>
+          <div>
+            <h4>Ingredients</h4>
+            <ul>
+              <li>9 lasagna noodles</li>
+              <li>500g ground beef</li>
+              <li>1 onion (chopped)</li>
+              <li>2 cloves garlic (minced)</li>
+              <li>800g canned tomatoes (crushed)</li>
+              <li>2 tablespoons tomato paste</li>
+              <li>1 teaspoon dried oregano</li>
+              <li>Salt and black pepper to taste</li>
+              <li>300g ricotta cheese</li>
+              <li>2 cups shredded mozzarella cheese</li>
+              <li>1/2 cup grated Parmesan cheese</li>
+              <li>1 egg</li>
+            </ul>
+          </div>
+        </div>
+        
+        <!--Recept-->
+        <h4>Instructions</h4>
+        <!--Step 1-->
+        <h5>1. Prepare the sauce</h5>
+          <p>- In a large pan, sauté chopped onion and minced garlic until soft.<br>
+          - Add ground beef and cook until browned.<br>
+          - Stir in crushed tomatoes, tomato paste, oregano, salt, and pepper.<br>
+          - Let simmer for 20 minutes, stirring occasionally.</p>
+        <!--Step 2-->
+        <h5>2. Prepare the cheese mixture</h5>
+          <p>- In a bowl, combine ricotta cheese, egg, and half of the Parmesan cheese.<br>
+          - Mix well until smooth.</p>
+        <!--Step 3-->
+        <h5>3. Assemble the lasagna</h5>
+          <p>- Spread a layer of meat sauce in a baking dish.<br>
+          - Add a layer of lasagna noodles, then spread ricotta mixture and sprinkle mozzarella.<br>
+          - Repeat layers, ending with meat sauce and remaining mozzarella and Parmesan on top.</p>
+        <!--Step 4-->
+        <h5>4. Bake</h5>
+          <p>- Cover with foil and bake in a preheated oven at 180°C (350°F) for 25 minutes.<br>
+          - Remove foil and bake for another 20 minutes until golden and bubbly.</p>
+        <!--Step 5-->
+        <h5>5. Serve</h5>
+          <p>- Let it rest for 10–15 minutes before serving.<br>
+          - Serve warm with salad or bread if desired.</p>
+        <h3>Bon appétit!</h3>
+    </div>
+  </body>
+  
+</html>

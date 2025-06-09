@@ -1,0 +1,73 @@
+﻿<html lang="en">
+  
+    
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Ratatouille recipe</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  
+     
+  <body>
+    <div class="wrapper">
+        
+      <header>
+         <nav><a href="index.html">HOME</a></nav>
+      </header>
+        
+      <main>
+        <h2>Ratatouille </h2>  
+        
+        <div class="container">
+          <div><img src="Ratatouille-recipe.jpg" alt="ratatouille" width="300" height="300" ></div>
+            <div>
+              <h4>Ingredients</h4>
+              <ul>
+                <li>2 zucchinis (sliced)</li>
+                <li>2 eggplants (sliced and salted)</li>
+                <li>1 red bell pepper (thinly sliced)</li>
+                <li>1 yellow bell pepper (thinly sliced)</li>
+                <li>1 large onion (thinly sliced)</li>
+                <li>3 cloves garlic (minced)</li>
+                <li>4 tomatoes (chopped or grated)</li>
+                <li>2 tablespoons olive oil</li>
+                <li>1 teaspoon dried oregano</li>
+                <li>Fresh basil (optional)</li>
+                <li>Salt and black pepper to taste</li>
+              </ul>
+            </div>
+          </div>
+          
+          <!--Recept-->
+          <h4>Instructions</h4>
+          <!--Step 1-->
+          <h5>1. Prepare the vegetables</h5>
+            <p>- Slice 2 zucchinis, 2 eggplants (salt them and let sit for 20 minutes), 1 red bell pepper, and 1 yellow bell pepper into thin rounds or strips.<br   >
+            - Thinly slice 1 large onion and mince 3 garlic cloves.<br>
+            - Chop or grate 4 tomatoes.</p>
+          <!--Step 2-->
+          <h5>2. Sauté the base</h5>
+            <p>- Heat 2 tablespoons of olive oil in a pan over medium heat.</p>
+            <p>- Sauté the onion until translucent, then add the garlic and cook for 1–2 minutes.</p>
+            <p>- Add the tomatoes and cook until soft, forming a light sauce. Season with salt, pepper, and 1 teaspoon of dried oregano.</p>
+          <!--Step 3-->
+          <h5>3. Assemble the ratatouille</h5>
+            <p>- Spread the tomato-onion sauce on the bottom of a baking dish.<br>
+            - Arrange the sliced vegetables (zucchini, eggplant, peppers) in alternating layers or a spiral pattern over the sauce.<br>
+            - Drizzle with a bit more olive oil and season with salt, pepper, and fresh basil if desired.</p>
+          <!--Step 4-->
+          <h5>4. Bake</h5>
+            <p>- Cover the dish with foil and bake in a preheated oven at 180°C (350°F) for 35–40 minutes.<br>
+            - Remove the foil and bake for an additional 10–15 minutes until the vegetables are tender and slightly browned.</p>
+          <!--Step 5-->
+          <h5>5. Serve</h5>
+            <p>- Let it cool for a few minutes before serving.<br>
+            - Serve warm as a main dish or side, optionally with bread or rice.</p>
+          <h3>Bon appétit!</h3>
+      </main>
+    </div>
+  </body>
+  
+</html>

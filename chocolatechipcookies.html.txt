@@ -1,0 +1,82 @@
+﻿<html lang="en">
+    
+      
+  <head>
+    
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Chocolate chip cookie recipe</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  
+     
+  <body>
+    <div class="wrapper">
+      <header>
+        <nav><a href="index.html">HOME</a></nav>
+      </header>
+        
+      <h2>Chocolate Chip Cookies</h2>
+      
+      <div class="container">
+        <div><img src="ccc.jpg" alt="chocolate chip cookies" title="Chocolate chip cookie recipe" width="300" height="300"></div>
+        <div><h4>Ingredients (Makes 8–10 large cookies)</h4>
+          <ul>
+            <li>½ tsp salt</li>
+            <li>1 tsp baking soda</li>
+            <li>1 cup (200g) brown sugar</li>
+            <li>2 ½ cups (315g) all-purpose flour</li>
+            <li>1 cup (227g) unsalted butter, softened</li>
+            <li>½ cup (100g) granulated sugar</li>
+            <li>chocolate chips</li>
+            <li>2 cups (340g) semisweet chocolate chips (or chunks)</li>
+            <li>2 tsp vanilla extract</li>
+            
+          <h4>Optional:</h4>
+          
+           <li>½ cup (60g) chopped nuts (walnuts or pecans)</li>
+           <li>Sprinkle of flaky sea salt on top before baking for added flavor</li>
+           </ul></div>
+      </div>
+      
+      
+      <!--Recipe-->
+      <h3> Instructions</h3>
+      
+      <!--Step 1-->
+      <h5>1. Prepare the dough</h5>
+      <p>-Beet 1 cup (227g) softened unsalted butter, 1 cup (200g) brown sugar, and ½ cup (100g) granulated sugar until light and fluffy.<br>
+      -Add 2 tsp vanilla extract.<br>
+      -Add 2 eggs one at a time, mixing well after each addition.<br></p>
+      
+      <!--Step 2-->
+      <h5>2. Combine dry ingredients</h5>
+      <p>-Whisk together 2½ cups (315g) all-purpose flour, 1 tsp baking soda, and ½ tsp salt in a separate bowl.<br>
+      -Gradually add the dry mixture to the wet ingredients, mixing until just combined.<br></p>
+      
+      <!--Step 3-->
+      <h5>3. Add mix-ins</h5>
+      <p>-Fold in 2 cups (340g) semisweet chocolate chips (or chunks).<br>
+      -Optionally, add ½ cup (60g) chopped nuts (walnuts or pecans).<br>
+      -Chill the dough for 30 minutes (optional).<br></p>
+      
+      <!--Step 4-->
+      <h5>4. Bake the cookies</h5>
+      <p>-Preheat oven to 175°C (350°F).<br>
+      -Scoop large dough balls (~¼ cup) onto a parchment-lined baking sheet.<br>
+      -Optionally sprinkle with flaky sea salt.<br>
+      -Bake for 12–15 minutes until edges are golden but centers still soft.<br></p>
+      
+      <!--Step 5-->
+      <h5>5. Cool and enjoy</h5>
+      <p>-Let cookies cool on the baking sheet for 5 minutes.<br>
+      -Transfer to a wire rack to cool completely.<br>
+      -Serve warm or store in an airtight container for up to 5 days.<br></p>
+      
+      <h3>Bon appetit!</h3>
+    </div>
+  </body>
+
+
+</html>

@@ -1,0 +1,104 @@
+﻿<html lang="en">
+    
+  <head>
+    
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Apple pie recipe</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+
+   
+  <body>
+    <div class="wrapper">
+      <header>
+          <nav>
+            <a href="index.html">HOME</a>
+          </nav>
+      </header>
+      <h2>Apple pie </h2>
+      <div  class="container">
+        <div id="afbeelding"> <img src="applepie2.jpg" alt="apple pie" title="Apple pie" width="300" height="300"></div>
+        <div><h4>Ingredients</h4>
+          <ul> 
+            <li>1½ cups graham cracker crumbs</li>
+            <li>6 tablespoons unsalted butter, melted</li>
+            <li>2 tablespoons granulated sugar</li>
+            <li>pie crust</li>
+            <li>5–6 medium apples (Granny Smith or Honeycrisp), peeled, cored, and sliced</li>
+            <li>½ cup granulated sugar</li>
+            <li>1 teaspoon ground cinnamon</li>
+            <li>¼ teaspoon ground nutmeg</li>
+            <li>1 tablespoon lemon juice</li>
+            <li>1 tablespoon all-purpose flour</li>
+            <li>2 tablespoons unsalted butter, cut into small cubes</li>
+            <li>¾ cup all-purpose flour</li>
+            <li>½ cup brown sugar, packed</li>
+            <li>1 teaspoon ground cinnamon</li>
+            <li>Pinch of salt</li>
+            <li> 6 tablespoons unsalted butter, cold and cubed</li>
+          </ul></div>
+        </div>   
+      
+         <!--Recipe-->
+      <h4>Instructions</h4>
+      <!--Step 1-->
+      <h5>1. Prepare the crust</h5>
+      
+      <p>-Mix 1½ cups of graham cracker crumbs, 6 tbsp melted butter, and 2 tbsp sugar.<br>
+      
+      -Press the mixture into the bottom and sides of a 9-inch pie dish.<br>
+      
+      -Bake at 175°C (350°F) for 8–10 minutes. Let it cool. </p>
+      
+       <!--Step 2-->
+       
+      <h5>2. Make the apple filling</h5>
+      
+      <p>-Peel, core, and slice 5–6 medium apples (like Granny Smith or Honeycrisp).<br>
+      
+      -In a large bowl, toss apples with ½ cup sugar, 1 tsp cinnamon, ¼ tsp nutmeg, 1 tbsp lemon juice, and 1 tbsp flour.<br>
+      
+      -Let it sit for 10 minutes to draw out juices.</p>
+      
+       <!--Step 3-->
+       
+      <h5>3. Assamble the pie </h5>
+      
+      <p>-Spoon the apple mixture into the cooled crust, spreading evenly.<br>
+      
+      -Dot the top with small cubes of 2 tbsp cold butter.</p>
+      
+       <!--Step 4-->
+       
+      <h5>4. Make the crumb topping</h5>
+      
+      <p>-In a bowl, mix ¾ cup flour, ½ cup brown sugar, 1 tsp cinnamon, and a pinch of salt.<br>
+      
+      -Add 6 tbsp cold butter, cut into cubes, and rub with your fingers until crumbly.<br>
+      
+      -Sprinkle the topping over the apples.<br>
+      
+      </p>
+      
+       <!--Step 5-->
+       
+      <h5>5. Bake the pie</h5>
+      
+      <p>-Bake at 175°C (350°F) for 45–55 minutes, until the topping is golden and the apples are tender.<br>
+      
+      -If the top browns too quickly, cover loosely with foil during the last 15 minutes.</p>
+      <!--Step 7 -->
+      <h5>6. Cool and serve</h5>
+       
+      -Let the pie cool at room temperature for at least 2 hours.<br>
+      
+      -Serve warm or chilled, optionally with vanilla ice cream or whipped cream.<br>
+      
+      <h3>Bon appétit!</h3>
+    </div>
+  </body>
+  
+</html>

@@ -1,0 +1,169 @@
+﻿h1{
+  color: rgb(10,10,10);
+  text-align:center;
+}
+
+
+h2{
+  text-align: center;
+}
+
+
+h5 {
+  color: rgb(10,10,10);
+}
+
+
+h3 {
+   color: rgb(6, 51, 97);
+}
+
+
+h4 {
+   color: rgb(10,10,10);
+   margin: 20px;
+}
+
+
+.image-container {
+  display: block;
+  margin:0 auto;
+  float: right;
+}
+
+
+.most-visited{
+  text-align: center;
+  color: rgb(13, 31, 84);
+  margin-top: 30px;
+}
+.image-text {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+}
+
+
+body {
+  background: rgb(195, 231, 237);
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+a {
+  color: rgb(18, 85, 128);
+  text-decoration: none;
+  cursor: url;
+}
+
+
+p {
+  font-size:13pt;
+} 
+
+
+
+
+img {
+  width: auto;
+  margin: 0px 40px 0px 30px ;
+}
+
+
+nav {
+  background-color: rgb(5, 146, 171);
+  display: flex;
+  justify-content: center;
+  gap: 10px;   
+}
+
+
+nav a{
+  color: rgb(245,245,245);
+  font-size: 30pt;
+}
+nav a:hover{
+  color: #3c3b3d;
+}
+
+
+.container{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+
+.recipes {
+  display: grid; 
+  grid-template-columns: auto auto auto;
+  justify-items: center; 
+  padding: 10px;
+  text-align: center;
+  
+}
+
+
+.contact-info{
+  margin:20px 0px 0px 0px;
+  padding:15px;
+  border-top: 3px solid rgb(5, 146, 171);
+}
+
+
+.recipes img{
+  margin-top:40px;
+  border: 2px solid gold;
+  border-radius: 8px;
+  box-shadow: 0px 5px 8px rgba(0,0,0,0.4);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.recipes-2{
+  display: grid; 
+  grid-template-columns: auto auto auto;
+  justify-items: center; 
+  padding: 10px;
+  text-align: center;
+}
+.recipes-2 img{
+  margin-top:40px;
+  border: 2px solid gold;
+  border-radius: 8px;
+  box-shadow: 0px 5px 8px rgba(0,0,0,0.4);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.recipes img:hover{
+  transform: scale(1.2);
+}
+.recipes-2 img:hover{
+  transform: scale(1.2);
+}
+
+
+.titel.home {
+  background-color: rgb(5, 146, 171);
+  display: flex;
+  justify-content: center;
+}
+
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.videolink{
+  text-align: center;
+  margin:20px 0px 20px 0px;
+  font-size: 25px;
+}
+.home{
+  display: flex;
+  gap:20px;
+  align-items: center;
+}

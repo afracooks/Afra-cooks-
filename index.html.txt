@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+   <title>Afra cooks</title>
+   <meta charset="utf-8">
+   <meta name="author" content="Afra Turkcan">
+   <meta name="keywords" content="cook, recipe, delicious, book, cooking">
+   <meta name="description" content="On this website you can learn how to cook! Because we have a quote that says: Anyone can cook!">
+   <link rel="stylesheet" type="text/css" href="style.css">
+   <link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+    
+<body>
+  <div class="wrapper">
+    <h1 class="titel.home">Anyone can cook!</h1>
+    <div class="home">
+      <div class="home-text"> 
+        <p style="font-size: 22px;">Welcome to my website! A place where I truly believe that anyone
+        can cook! I created this site to inspire those who may not believe in their
+        cooking skills yet. My goal is to make cooking accessible to everyone by 
+        sharing detailed, reliable, and delicious recipes that you'll be proud to
+        serve.So don’t wait — start today! As Chef Auguste Gusteau says in the beloved film Ratatouille:<br>
+        <b>“Anyone can cook!”</b></p>
+      </div> 
+      <div class="image-container">
+          <img src="Gusteau.JPG" alt="ratatouille" height="200" >
+      </div>
+    </div>   
+        <article> <!-- recepten-->
+          <h2 class="most-visited">⭐Most visited recipes⭐</h2>  
+          <div class="recipes">
+            <div>
+              <a href="lasagna.html"><img src="Christmas-Eve-Lasagna-18.jpeg" alt="lasagna" title="Delisicious Lasagna Recipe" height="200"></a>
+            </div>
+            <div>
+              <a href="applepie.html"> <img src="applepie2.jpg" alt="apple pie" title="Apple pie" height="200"></a>
+            </div>
+            <div>
+              <a href="ratatouille.html"><img src="Ratatouille-recipe.jpg" alt="ratatouille" title="Ratatouille Recipe from France!" height="200" ></a>
+            </div>
+          </div>
+          <div class="recipes-2">
+            <div>
+              <a href="cheesecake.html"><img src="cheesecake2.png" alt="cheesecake" title="Apple pie Recipe" height="200"></a>
+            </div>
+            <div>
+              <a href="chocolatechipcookies.html"> <img src="ccc.jpg" alt="chocolate chip cookies" height="200" margin-top="20"></a> 
+            </div>
+            
+          </div>
+        </article> 
+  </div>
+  <div class="videolink">
+    <a href="video.html"> Click for some fun!!</a>
+  </div>
+  
+    <footer class="contact-info">
+      <h3>Contact</h3>
+      <ul>
+        <li><strong>E-mail:</strong> afra@example.com</li>
+        <li><strong>Phone:</strong> +31 6 12345678</li>
+        <li><strong>Instagram:</strong> @afracooks</li>
+      </ul>
+    </footer> 
+
+
+</body>

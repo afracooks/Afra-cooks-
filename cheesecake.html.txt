@@ -1,0 +1,76 @@
+﻿<html lang="en">
+  
+    
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Cheesecake recipe</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+  
+     
+  <body>
+    <div class="wrapper">
+      
+      <header>
+         <nav><a href="index.html">HOME</a></nav>
+      </header>
+      <main>
+        <h2>Cheesecake </h2>  
+        <div class="container"> 
+          <div><img src="cheesecake2.png" alt="cheesecake" title="Cheesecake" width="300" height="300"></div>
+          <div>
+            <h3>Ingredients</h3>
+            <ul>
+              <li> 1 ½ cups graham cracker crumbs</li>
+              <li>¼ cup melted butter</li>
+              <li>2 tbsp sugar</li>
+              <li>brown sugar</li>
+              <li>¾ cup sugar</li>
+              <li>1 tsp Vanilla extract</li>
+              <li>2 cups cream cheese (room temperature)</li>
+              <li>2 Eggs</li>
+              <li>½ cup sour cream</li>
+              <li>2 tbsp Milk</li>
+              <li>2 tbsp Flour</li>
+              <li>Mixed red fruits (fresh or frozen)</li>
+            </ul>
+          </div>
+       </div>  
+        
+          <!--Recipe-->
+        <h3>Instructions</h3>
+        
+        <!--Step 1-->
+        <h4>1. Prepare the crust</h4>
+        <p>-Mix graham cracker crumbs, melted butter, and sugar.<br>
+        -Press the mixture into the bottom of a springform pan.<br>
+        -Bake at 175°C (350°F) for 10 minutes. Let it cool. </p>
+        
+        <!--Step 2-->
+        <h4>2. Make the filling</h4>
+        <p>-In a bowl, beat cream cheese and sugar until smooth.<br>
+        -Add eggs one at a time, mixing well.<br>
+        -Add vanilla, sour cream, flour, and milk. Mix until creamy.</p>
+        
+         <!--Step 3-->
+        <h4>3. Bake the cheesecake </h4>
+        
+        <p>-Pour the filling over the crust.<br>
+        -Bake at 160°C (320°F) for about 50–60 minutes, until the center is just set.<br>
+        -Turn off the oven, slightly open the door, and let the cheesecake cool inside for 1 hour.</p>
+        
+         <!--Step 4-->
+        <h4>4. Chill</h4>
+        <p>-Refrigerate for at least 4 hours or overnight.</p>
+        
+         <!--Step 5-->
+        <h4>5. Top with the red fruits</h4>
+        <p>-Before serving, add red fruits on top.</p>
+        <h3>Bon appétit!</h3>
+      </main>
+    </div>
+  </body>
+  
+</html>
